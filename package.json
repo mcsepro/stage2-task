@@ -16,10 +16,6 @@
   "bugs": {
     "url": "https://github.com/mcsepro/HNGi8-stage2-task/issues"
   },
-  "engines": {
-    "node": "14.x"
-  }
-  "homepage": "https://github.com/mcsepro/HNGi8-stage2-task#readme"
-}
+    "homepage": "https://github.com/mcsepro/HNGi8-stage2-task#readme"
 
 }
